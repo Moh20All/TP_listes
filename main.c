@@ -466,3 +466,6 @@ tem1=div;
     display(division);
     return 0;
 }
+
+// By Moh allali 
+//GG_s
